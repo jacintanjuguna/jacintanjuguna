@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there!! :smiley:
+
+I am Jacinta Njuguna,frontend developer having pursued a Bachelor's degree in Mathematics and Computer Science at [Meru University](www.must.ac.ke).I am passionate about developing projects that are impactful to the society in a positive way.I am currently learning ReactJS and seek to learn more and collaborate on projects and innovative ideas.
+Feel free to reach out to me [here](jacintaanjuguna@gmail.com).
+
+<!--### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/jnjuguna/"><img align="left" src="https://raw.githubusercontent.com/jacintanjuguna/jacintanjuguna/main/images/linkedin.svg" alt="Jacinta | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/nyambura_jess"><img align="left" src="https://raw.githubusercontent.com/jacintanjuguna/jacintanjuguna/main/images/instagram.svg" alt="Jacinta | Instagram" width="21px"/></a>-->
+
+
 
 <!--
 **jacintanjuguna/jacintanjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
